@@ -38,5 +38,9 @@ Daniel Dickison
 Peter Carr
 Jim Correia
 Phillip Kast
+Chris Wright
+Joshua Tessier
+Graham Dennis
+Nick Hodapp
 
 Aaaaannnd, Gus Mueller (that's me!)
